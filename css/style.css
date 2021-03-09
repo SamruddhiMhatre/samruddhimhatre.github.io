@@ -36,13 +36,13 @@ h2 {
 }
 
 a {
-    color: #2196f3;
+    color: #00008b;
 }
 
 a:hover,
 a:focus,
 a:active {
-    color: #0f72c1;
+    color: #00008b;
 }
 
 .subheading {
@@ -60,7 +60,7 @@ a:active {
   }
 
   .list-social-icons a:hover {
-      color: #2196f3;
+      color: #00008b;
   }
 
   .list-social-icons a .fa-lg {
@@ -72,7 +72,7 @@ a:active {
   }
 
   .list-icons .list-inline-item i:hover {
-      color: #2196f3;
+      color: #00008b;
   }
 
 /*==================================================
@@ -139,26 +139,26 @@ a:active {
 }
 
 .btn-white {
-    border-color: #2196f3;
-    background-color: #2196f3;
-    color: #fff;
+    border-color: #00008b;
+    background-color: #FFFFFF;
+    color: #00008b;
 }
 
 .btn-white:hover,
 .btn-white:focus {
     background-color: transparent;
-    color: #2196f3;
+    color: #00008b;
     cursor: pointer;
 }
 
 .btn-green {
-    border-color: #2196f3;
-    color: #2196f3;
+    border-color: #00008b;
+    color: #00008b;
 }
 
 .btn-green:hover,
 .btn-green:focus {
-    background-color: #2196f3;
+    background-color: #00008b;
     color: #fff;
     cursor: pointer;
 }
@@ -169,7 +169,7 @@ a:active {
   .heading-border {
       width: 60px;
       height: 10px;
-      background-color: #2196f3;
+      background-color: #00008b;
       margin: 0 auto 20px auto;
   }
 
@@ -200,11 +200,11 @@ a:active {
   }
 
   .bg-primary {
-      background-color: #2196f3 !important;
+      background-color: #00008b !important;
   }
 
   .text-primary {
-      color: #2196f3 !important;
+      color: #00008b !important;
   }
 
 /*==================================================
@@ -272,7 +272,7 @@ a:active {
     -moz-transition: all ease 0.5s;
     transition: all ease 0.5s;
     opacity: 0;
-    background: rgba(54, 160, 245, 0.73);
+    background: rgba(0, 0, 139, 0.73);
 }
 
 #portfolio .portfolio-item .portfolio-link .caption-port:hover {
@@ -369,7 +369,7 @@ a:active {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #2C3E50;
+    background-color: #00008b;
 }
 
 .portfolio-modal .close-modal .lr .rl {
@@ -381,7 +381,7 @@ a:active {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
-    background-color: #2C3E50;
+    background-color: #00008b;
 }
 
 .portfolio-modal .modal-backdrop {
@@ -444,7 +444,7 @@ a:active {
 }
 
 /*====================================================
-                      AWARD
+                      ACHIEVEMENTS
 ======================================================*/
  
 #awards {
@@ -531,7 +531,7 @@ a:active {
 }
 
 #award-box .award:hover .award-icon:before {
-    background: #39b3ff;
+    background: #00008b;
 }
 
 #award-box .award-content {
@@ -564,8 +564,8 @@ a:active {
 }
 
 #award-box .award:hover .award-content:before {
-    background: #39b3ff;
-    border-color: #39b3ff;
+    background: #00008b;
+    border-color: #00008b;
 }
 
 #award-box .award-content:after {
@@ -582,7 +582,7 @@ a:active {
     display: block;
     font-size: 15px;
     font-weight: 600;
-    color: #39b3ff;
+    color: #00008b;
     margin: 0 0 8px;
     transition: all 0.3s ease 0s;
 }
@@ -599,7 +599,7 @@ a:active {
 }
 
 #award-box .award:hover .title {
-    color: #39b3ff;
+    color: #00008b;
 }
 
 #award-box .description {
@@ -709,7 +709,7 @@ a:active {
 }
 
 .contact-box-desc h3 i{
-  color: #2196f3;
+  color: #00008b;
 }
 
 .social-icon-f li{
@@ -720,7 +720,7 @@ a:active {
   height: 35px;
   width:35px;
   line-height: 35px;
-  border:2px solid #2196f3;
+  border:2px solid #00008b;
   text-align: center;
   margin-right: 10px;
   border-radius: 50%;
